@@ -13,13 +13,13 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-  Profissional de tecnologia com sólida experiência em infraestrutura e automação, atualmente em transição de carreira para a área de Desenvolvimento de Software. [cite: 7] Minha paixão é resolver problemas complexos e criar interfaces de usuário que sejam intuitivas e eficientes.
+  Profissional de tecnologia com sólida experiência em infraestrutura e automação, atualmente em transição de carreira para a área de Desenvolvimento de Software. Minha paixão é resolver problemas complexos e criar interfaces de usuário que sejam intuitivas e eficientes.
 <br><br>
-  - 🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Unicarioca, com previsão de conclusão em Dezembro de 2026. [cite: 23, 25]
+  - 🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Unicarioca, com previsão de conclusão em Dezembro de 2026.
 <br>
-  - 🌱 Focado em aprimorar minhas habilidades em <strong>HTML5, CSS3 e JavaScript</strong> para construir aplicações web modernas.
+  - 🌱 Focado em aprimorar minhas habilidades e <strong> me apromorar como profissional, </strong> para construir soluções robustas e modernas.
 <br>
-  - 💼 Atualmente como <strong>Estagiário de Programação</strong> na Neosyx, onde atuo no suporte e manutenção de sistemas utilizando Python e SQL Server. [cite: 10, 11]
+  - 💼 Atualmente como <strong>Estagiário de Programação</strong> na Neosyx, onde atuo no suporte e manutenção de sistemas utilizando Python e SQL Server.
 </p>
 
 ---
