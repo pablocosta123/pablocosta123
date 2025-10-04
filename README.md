@@ -17,7 +17,7 @@
 <br><br>
   - 🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Unicarioca, com previsão de conclusão em Dezembro de 2026.
 <br>
-  - 🌱 Focado em aprimorar minhas habilidades e <strong> me apromorar como profissional, </strong> para construir soluções robustas e modernas.
+  - 🌱 Focado em aprimorar minhas habilidades e <strong> me aprimorar como profissional, </strong> para construir soluções robustas e modernas.
 <br>
   - 💼 Atualmente como <strong>Estagiário de Programação</strong> na Neosyx, onde atuo no suporte e manutenção de sistemas utilizando Python e SQL Server.
 </p>
